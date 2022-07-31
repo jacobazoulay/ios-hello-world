@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  helloworld
+//  ios-hello-world
 //
-//  Created by Jacob Azoulay on 7/23/22.
+//  Created by Jacob Azoulay on 7/30/22.
 //
 
 import SwiftUI

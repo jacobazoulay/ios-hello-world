@@ -1,13 +1,13 @@
 //
-//  helloworldUITestsLaunchTests.swift
-//  helloworldUITests
+//  ios_hello_worldUITestsLaunchTests.swift
+//  ios-hello-worldUITests
 //
-//  Created by Jacob Azoulay on 7/23/22.
+//  Created by Jacob Azoulay on 7/30/22.
 //
 
 import XCTest
 
-class helloworldUITestsLaunchTests: XCTestCase {
+class ios_hello_worldUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
