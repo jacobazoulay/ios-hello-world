@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		592B2F1328960B2C00206937 /* ios_hello_worldApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592B2F1228960B2C00206937 /* ios_hello_worldApp.swift */; };
-		592B2F1528960B2C00206937 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592B2F1428960B2C00206937 /* ContentView.swift */; };
+		592B2F1528960B2C00206937 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592B2F1428960B2C00206937 /* MainView.swift */; };
 		592B2F1728960B2D00206937 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 592B2F1628960B2D00206937 /* Assets.xcassets */; };
 		592B2F1A28960B2D00206937 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 592B2F1928960B2D00206937 /* Preview Assets.xcassets */; };
 		592B2F2428960B2D00206937 /* ios_hello_worldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592B2F2328960B2D00206937 /* ios_hello_worldTests.swift */; };
@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		592B2F0F28960B2C00206937 /* ios-hello-world.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-hello-world.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		592B2F1228960B2C00206937 /* ios_hello_worldApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_hello_worldApp.swift; sourceTree = "<group>"; };
-		592B2F1428960B2C00206937 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		592B2F1428960B2C00206937 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		592B2F1628960B2D00206937 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		592B2F1928960B2D00206937 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		592B2F1F28960B2D00206937 /* ios-hello-worldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-hello-worldTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,7 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				592B2F1228960B2C00206937 /* ios_hello_worldApp.swift */,
-				592B2F1428960B2C00206937 /* ContentView.swift */,
+				592B2F1428960B2C00206937 /* MainView.swift */,
 				592B2F1628960B2D00206937 /* Assets.xcassets */,
 				592B2F1828960B2D00206937 /* Preview Content */,
 			);
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				592B2F1528960B2C00206937 /* ContentView.swift in Sources */,
+				592B2F1528960B2C00206937 /* MainView.swift in Sources */,
 				592B2F1328960B2C00206937 /* ios_hello_worldApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
